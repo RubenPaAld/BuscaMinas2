@@ -215,6 +215,8 @@ public class MainActivity extends AppCompatActivity {
                                                 destaparCasilla(i,j);
             }
         }
+
+
     }
 
     /**
