@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Busca Minas</string>
+
+    <string name="menu_1">Instrucciones</string>
+    <string name="menu_2">Nuevo Juego</string>
+    <string name="menu_3">configuración</string>
+    <string name="menu_4">Seleccionar personaje</string>
+
+    <string name="count_minas">Minas restantes: %1$d</string>
+
+    <string name="tituloSeleccionPersonaje">Seleccion de personaje</string>
+    <string name="pj1">Mina</string>
+    <string name="pj2">Luna</string>
+    <string name="pj3">Fuego</string>
+
+    <string name="positiveButton">Aceptar</string>
+    <string name="negativeButton">Cancelar</string>
+
+    <string name="mensajeGanar">Has ganado. Pulse aceptar para émpezar una nueva partida</string>
+    <string name="mensajePerder">Has pulsado una mina, la partida ha terminado. Pulse aceptar para émpezar una nueva partida</string>
+
+    <string name="tituloInstrucciones">Instrucciones</string>
+    <string name="instrucciones">El juego es tipo buscaminas: Cuando pulsas en una casilla, sale un número que identifica cuántas hipotenochas hay alrededor: Ten cuidado porqués! pulsasen una casilla que tenga una hipotenocha escondida, perderás. Si crees o tienes la "certeza de que hay una hipotenocha, haz un click largo sobre la casilla para señalarla. No hagas un click largo en una casilla donde no hay una hipotenocha porque perderás. Ganas una vez hayas encontrado todas las hipotenochas.</string>
+
+    <string name="tituloSeleccionDificultad">Seleccion de personaje</string>
+    <string name="dificultad1">Principiante</string>
+    <string name="dificultad2">Medio</string>
+    <string name="dificultad3">Avanzado</string>
+
+    <string name="noInicio">Aun no a empezado la partida. Haga click un click corto en una casilla</string>
+    <string name="finalizado">Ya acabó la partida. Seleccione una nueva partida en el menu de la esquina superior derecha</string>
+</resources>
